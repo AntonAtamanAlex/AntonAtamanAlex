@@ -49,34 +49,19 @@ read tech articles.
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"
-alt="Java" width="40" height="40"/>;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"
-title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  
-  
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
-title="Material UI" alt="Material UI" width="40" height="40"/>nbsp;
-&lt;img src=&quot;https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg&quot; title=&quot;Flutter&quot;
-alt=&quot;Flutter&quot; width=&quot;40&quot; height=&quot;40&quot;/&gt;&amp;nbsp;
-&lt;img src=&quot;https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg&quot; title=&quot;Redux&quot;
-alt=&quot;Redux &quot; width=&quot;40&quot; height=&quot;40&quot;/&gt;&amp;nbsp;
-&lt;img src=&quot;https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg&quot; title=&quot;CSS3&quot;
-alt=&quot;CSS&quot; width=&quot;40&quot; height=&quot;40&quot;/&gt;&amp;nbsp;
-&lt;img src=&quot;https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg&quot; title=&quot;HTML5&quot;
-alt=&quot;HTML&quot; width=&quot;40&quot; height=&quot;40&quot;/&gt;&amp;nbsp;
-&lt;img src=&quot;https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg&quot;
-title=&quot;JavaScript&quot; alt=&quot;JavaScript&quot; width=&quot;40&quot; height=&quot;40&quot;/&gt;&amp;nbsp;
-&lt;img src=&quot;https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg&quot;
-title=&quot;Firebase&quot; alt=&quot;Firebase&quot; width=&quot;40&quot; height=&quot;40&quot;/&gt;&amp;nbsp;
-&lt;img src=&quot;https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg&quot; title=&quot;Gatsby&quot;
-alt=&quot;Gatsby&quot; width=&quot;40&quot; height=&quot;40&quot;/&gt;&amp;nbsp;
+alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"
+title="Spring" alt="Spring" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
+title="Material UI" alt="Material UI" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3"
+alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"
+alt="HTML" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"
-alt="MySQL" width="40" height="40"/>nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-title=&quot;NodeJS&quot; alt=&quot;NodeJS&quot; width=&quot;40&quot; height=&quot;40&quot;/&gt;&amp;nbsp;
-&lt;img src=&quot;https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-
-wordmark.svg&quot; title=&quot;AWS&quot; alt=&quot;AWS&quot; width=&quot;40&quot; height=&quot;40&quot;/&gt;&amp;nbsp;
-&lt;img src=&quot;https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg&quot; title=&quot;Git&quot;
-**alt=&quot;Git&quot; width=&quot;40&quot; height=&quot;40&quot;/&gt;
-&lt;/div&gt;
+alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+     title="AWS" alt="AWS" width="40" height="40"/>
+</div>
