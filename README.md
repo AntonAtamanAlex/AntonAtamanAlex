@@ -65,3 +65,19 @@ title="NodeJS" alt="NodeJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
      title="AWS" alt="AWS" width="40" height="40"/>
 </div>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NOOBHECAXAP&theme=tokyonight_duo&hide_border=true&date_format=Mj[,Y])](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonAtamanAlex)](https://github.com/AntonAtamanAlex/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonAtamanAlex&theme=solarized_dark)
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+http://github-readme-streak-stats.herokuapp.com?user=AntonAtamanAlex&theme=tokyonight_duo&hide_border=true..
+github-readme-streak-stats.herokuapp.com
+api?username=AntonAtamanAlex
+github-readme-stats.vercel.app
+stats?username=AntonAtamanAlex&theme=solarized_dark..
+github-profile-summary-cards.vercel.app
