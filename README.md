@@ -74,10 +74,4 @@ title="NodeJS" alt="NodeJS" width="40" height="40"/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonAtamanAlex&theme=solarized_dark)
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-http://github-readme-streak-stats.herokuapp.com?user=AntonAtamanAlex&theme=tokyonight_duo&hide_border=true..
-github-readme-streak-stats.herokuapp.com
-api?username=AntonAtamanAlex
-github-readme-stats.vercel.app
-stats?username=AntonAtamanAlex&theme=solarized_dark..
-github-profile-summary-cards.vercel.app
+
